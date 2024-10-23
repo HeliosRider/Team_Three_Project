@@ -13,7 +13,7 @@ telecom stocks and request expert analysis to make the right decision.
 
 **Analysis (Top-Level)**
 
-The team used the Nasdaq Data API to pull a years worth of
+The team used the Kagglehub to pull a years worth of
 trading data for the major cell phone providers: AT&T, T-Mobile, and Verizon. 
 the goal is to assess which stocks are trending upwardor downward.
 Based on the outcome of the  data, the team will provide the client with 
